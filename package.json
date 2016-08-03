@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-d6u",
+  "version": "1.0.0",
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu/)",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "3.2.2"
+  },
+  "dependencies": {
+    "eslint-config-standard": "5.3.5",
+    "eslint-plugin-node": "2.0.0",
+    "eslint-plugin-promise": "2.0.0",
+    "eslint-plugin-standard": "2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
