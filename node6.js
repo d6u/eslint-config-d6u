@@ -26,7 +26,6 @@ module.exports = {
     'node/no-missing-import': 0,
     'node/no-missing-require': 2,
     'node/no-unpublished-import': 0,
-    'node/no-unpublished-require': 2,
     'node/no-unsupported-features': 2,
     'node/process-exit-as-throw': 2,
     'node/shebang': 2
